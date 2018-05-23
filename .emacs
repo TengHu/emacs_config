@@ -27,7 +27,7 @@
  '(fci-rule-color "#2e2e2e")
  '(package-selected-packages
    (quote
-    (helm-projectile eshell-up neotree dumb-jump cyberpunk-theme solarized-theme doom-themes zenburn-theme auto-complete helm helm-ebdb)))
+    (scala-mode pdf-tools racket-mode go-mode helm-projectile eshell-up neotree dumb-jump cyberpunk-theme solarized-theme doom-themes zenburn-theme auto-complete helm helm-ebdb)))
  '(vc-annotate-background "#3b3b3b")
  '(vc-annotate-color-map
    (quote
@@ -98,6 +98,8 @@
 (dumb-jump-mode)
 (setq dumb-jump-selector 'helm)
 (global-set-key (kbd "C-g") #'dumb-jump-go-other-window)
+(global-set-key (kbd "C-p") #'dumb-jump-back)
+
 
 ;; helm-projectile
 (require 'helm-projectile)
@@ -105,5 +107,5 @@
 
 
 ;; helm neotree auto-complete theme-cyberpunk indent-guide dumb-jump helm-projectile
-
+;; racket-mode, pdf-tools
 

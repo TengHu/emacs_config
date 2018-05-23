@@ -1,0 +1,4 @@
+(require 'helm-config)
+asd
+(helm-mode 1)
+(define-key global-map [remap find-file] 'helm-find-files)

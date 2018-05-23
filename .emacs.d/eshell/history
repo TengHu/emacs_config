@@ -1,0 +1,128 @@
+ssh -fNL  14570:localhost:14570 appdocker140-sjc1
+ssh -fNL  15417:localhost:15417 appdocker140-sjc1
+python flipr_pushr.pyc
+python flipr_pushr.py
+python flipr_pushr.py
+cd ..
+cd ..
+cd ..
+CLAY_CONFIG=config/development.yaml python autolaszlo/lib/catan/flipr_pushr.py
+CLAY_CONFIG=config/development.yaml python autolaszlo/lib/catan/flipr_pushr.py
+istanbul cover -x '**/__tests__/**' --report cobertura node_modules/mocha/bin/_mocha -- -R spec --recursive server/tests client/javascripts/__tests__/ --timeout 5000
+istanbul
+istanbul help
+mocha
+npm install mocha
+mocha
+istanbul cover -x '**/__tests__/**' --report cobertura node_modules/mocha/bin/_mocha -- -R spec --recursive server/tests client/javascripts/__tests__/ --timeout 5000
+npm install istanbul@0.3.5
+istanbul help
+npm uninstall istanbul
+istanbul help
+npm uninstall istanbul
+istanbul help
+npm install istanbul@0.3.0
+istanbul help
+npm uninstall istanbul@0.4.5
+istanbul help
+istanbul cover -x '**/__tests__/**' --report cobertura node_modules/mocha/bin/_mocha -- -R spec --recursive server/tests client/javascripts/__tests__/ --timeout 5000
+ls
+git grep previousMultiplier
+git grep previousMultiplier
+lss
+ls
+cd ..
+ls
+python3 test.py 
+python3 test.py 
+python3 test.py 
+python3 test.py 
+python3 test.py 
+python3 test.py   
+python3 test.py   
+python3 test.py   
+python3 test.py   
+python3 test.py   
+python3 test.py   
+python3 test.py   
+python3 test.py   
+python3 test.py   
+python3 test.py   
+python3 test.py 
+python3 test.py 
+python3 test.p  
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py 
+python3 test.py 
+python3 test.py 
+python3 test.py 
+python3 test.py 
+python3 visualize_net.py
+python3 visualize_net.py
+python3 visualize_net.py
+python3 wiki.py 
+python3 wiki.py 
+python3 wiki.py 
+python3 wiki.py 
+python3 wiki.py 
+python3 wiki.py 
+python3 wiki.py 
+ls
+ls
+ls
+cd ../..
+cd ~/Uber/catan/
+mvn package
+mvn package
+mvn package
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons testtt
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons testt
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testDownSampleHexagons test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+ls
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+mvn -Dtest=TestDTLSurgeModelRequest#testFilterOneRing test
+git grep 'com.uber.h3'
+ls
+git greo geocap
+git grep geocap
+cd ..
+git grep geocap
